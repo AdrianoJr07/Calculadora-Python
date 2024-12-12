@@ -24,8 +24,6 @@ jobs:
         python -m unittest test_calculadora.py
 
 
-        name: Python application with CD
-
 on:
   push:
     branches:
